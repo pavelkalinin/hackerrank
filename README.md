@@ -1,4 +1,4 @@
-##Learning Java / Hacker Rank 
+##Hacker Rank 
 
 ###Solutions to some challenges from ![Hacker Rank][logo]
 [logo]: https://hrcdn.net//hackerrank//assets/brand/h_mark_sm-1776ff31b82453d7d1388d13c49b4aaf.png "https://www.hackerrank.com/"
