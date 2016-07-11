@@ -36,7 +36,7 @@
         </license>
     </licenses>
     <properties>
-        <start-class>xyz.enhorse.commons.Demo</start-class>
+        <start-class>xyz.enhorse.hackerrank.Demo</start-class>
 
         <java.version>1.8</java.version>
         <maven.compiler.version>3.3</maven.compiler.version>
